@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512162950071",
+    "project_id": "fake9ecommerce",
+    "storage_bucket": "fake9ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512162950071:android:b1aa4c77bb26b69e851632",
+        "android_client_info": {
+          "package_name": "com.example.infinity_scrolling_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpwdXtkYmSy6GcQYojyIm_Y-KTFh-jRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
